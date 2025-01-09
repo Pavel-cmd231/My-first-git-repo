@@ -1,11 +1,16 @@
 h1{
     color: blueviolet;
     background-color: black;
-    margin: 5px;
+    
     padding: 10px;
 }
 p{
     color: brown;
     background-color: cadetblue;
     padding: 10px;
+}
+ol{
+    color: greenyellow;
+    background-color: black;
+    padding: 20px 
 }
